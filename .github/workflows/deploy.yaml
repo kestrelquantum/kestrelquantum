@@ -27,6 +27,7 @@ defaults:
   run:
     shell: bash
 
+jobs:
   # Deployment job
   deploy:
     environment:
