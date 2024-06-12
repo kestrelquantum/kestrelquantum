@@ -4,7 +4,6 @@ name: Build Hugo site
 on:
   # Runs on pushes targeting the default branch
   pull_request:
-  push:
     branches:
       - main
 
